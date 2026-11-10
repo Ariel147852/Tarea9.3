@@ -1,0 +1,25 @@
+:host {
+  display: block;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.header-spa {
+  background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+  color: #ffffff;
+  padding: 24px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.header-spa h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.main-body {
+  padding: 20px;
+  background-color: #f8fafc;
+  min-height: calc(100vh - 120px);
+}
